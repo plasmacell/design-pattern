@@ -1,0 +1,5 @@
+# 这是yml格式的配置
+person:
+    name: huangyao
+    age: 12
+    gender: male
