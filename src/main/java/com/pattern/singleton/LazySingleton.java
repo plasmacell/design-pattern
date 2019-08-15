@@ -2,6 +2,8 @@ package com.pattern.singleton;
 
 /**
  * 单例模式：懒汉式
+ * 
+ * 懒汉式单例模式不是线程安全的，线程不安全体现在实例化instance时。
  */
 public class LazySingleton {
 
